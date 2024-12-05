@@ -3,6 +3,7 @@ def print_hi(name):
     print('мы тестируем Гит')
     a = 25 + 6 * 17
     print(a)
+    print(a ** 3 + 6)
 
 
 if __name__ == '__main__':
